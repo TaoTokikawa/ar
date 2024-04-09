@@ -1,6 +1,6 @@
-<div align="center">(optional) Project photo</div>
-<h1 align="center">Project Name</h1>
-<p align="center"><strong>One-line description</strong>
+<div align="center"></div>
+<h1 align="center">AR Shooter Game</h1>
+<p align="center"><strong>Shoot at objects on your phone screen which interact with your environment</strong>
 <br/>
 
 <h2>About</h2>
